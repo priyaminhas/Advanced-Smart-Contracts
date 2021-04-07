@@ -1,0 +1,24 @@
+{
+  "name": "security-audit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeBrownCollege-Toronto/bcdv1013-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts/issues"
+  },
+  "homepage": "https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts/bcdv1013-solution#readme",
+  "devDependencies": {
+    "bn.js": "^5.2.0",
+    "truffle": "^5.2.4"
+  }
+}
